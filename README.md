@@ -1,7 +1,7 @@
 ![preview](./flatboard3.png)
-![preview](https://flatboard.org/uploads/flatboard-akita.jpg)
+![preview](https://flatboard.org/uploads/flatboard-shikoku.jpg)
 
-Flatboard [![Flatboard](https://img.shields.io/badge/version-3.6-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Flatboard [![Flatboard](https://img.shields.io/badge/version-3.7-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===================
 
 Fast and lightweight flat-file forum software, Json powered.
