@@ -1,9 +1,14 @@
 ![preview](./flatboard5.png)
-[![Flatboard](https://img.shields.io/badge/version-5.0.0--rc.2-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![preview](https://flatboard.org/uploads/flatboard-shikoku.jpg)
+
+Flatboard 5 [![Flatboard](https://img.shields.io/badge/version-5.0.0--rc.2-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ===================
 
 Fast and lightweight flat-file forum software, powered by JSON or SQLite.
+
+**Important:** Flatboard 5 is a complete refactoring of the forum software. Flatboard 4 is the last supported version of the previous architecture. Flatboard 5 introduces a modern MVC architecture, improved performance, enhanced security, and many new features.
+
 We're just getting started, so if you have any questions, comments, bugs to report or enhancements that should be implemented, please do feel free to post those here on GitHub.  
 Online demo/support: https://flatboard.org
 
@@ -52,3 +57,4 @@ Flatboard 5 needs the following PHP extensions to be enabled:
 
 **Flatboard Community** - Licensed under GPL3, free and open source.  
 **Flatboard Pro** - Licensed under GPL3, requires purchase to access.
+
