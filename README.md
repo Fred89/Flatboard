@@ -1,6 +1,6 @@
 ![preview](./flatboard5.png)
 
-[![Flatboard](https://img.shields.io/badge/version-5.1.0-red.svg)](https://flatboard.org) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Flatboard](https://img.shields.io/badge/version-5.2.0-red.svg)](https://flatboard.org) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ===================
 
@@ -12,32 +12,38 @@ We're just getting started, so if you have any questions, comments, bugs to repo
 Online demo/support: https://flatboard.org
 
 ## Getting Started
+
 - [Installation](#installation)
 - [License](#license)
 
 ## REQUIREMENTS
 
 #### System requirements
+
 Make sure your server meets the following requirements.
 
 - [x] Web Server (Apache 2.4 with mod_rewrite or Nginx)
 - [x] PHP 8.0 or higher
 
 #### PHP extensions
+
 Flatboard 5 needs the following PHP extensions to be enabled:
 
 **Required:**
+
 - [x] PHP [json](https://php.net/manual/en/book.json.php) module for JSON manipulation (usually included).
 - [x] PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
 - [x] PHP [openssl](http://php.net/manual/en/book.openssl.php) module for security features.
 
 **Recommended:**
+
 - [x] PHP [fileinfo](http://php.net/manual/en/book.fileinfo.php) module for secure MIME type validation of uploaded files.
 - [x] PHP [zip](http://php.net/manual/en/book.zip.php) module for ZIP archive content analysis.
 - [x] PHP [pdo_sqlite](http://php.net/manual/en/book.pdo.php) module if using SQLite storage (Pro only).
 - [x] PHP [gd](http://php.net/manual/en/book.image.php) or [imagick](http://php.net/manual/en/book.imagick.php) module for avatar generation and image processing.
 
 ## Installation
+
 1. Download the latest version from [flatboard.org](https://flatboard.org/resources/flatboard)
 2. Extract the archive.
 3. Upload all files to your server/hosting.
@@ -45,6 +51,7 @@ Flatboard 5 needs the following PHP extensions to be enabled:
 5. Follow the Flatboard Installer to configure your website.
 
 **Note:** The installer will automatically detect your configuration and guide you through:
+
 - System check (PHP version, extensions)
 - Storage type selection (JSON or SQLite for Pro)
 - Site configuration
@@ -52,8 +59,8 @@ Flatboard 5 needs the following PHP extensions to be enabled:
 - SMTP configuration (optional)
 
 ## License
+
 [The GPL3 License (GPL3)](https://github.com/Fred89/flatboard/blob/master/LICENSE) Copyright (c) 2015-2026 Frédéric Kaplon.
 
 **Flatboard Community** - Licensed under GPL3, free and open source.  
 **Flatboard Pro** - Licensed under GPL3, requires purchase to access.
-
