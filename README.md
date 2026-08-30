@@ -1,6 +1,6 @@
 ![preview](./flatboard5.png)
 
-[![Flatboard](https://img.shields.io/badge/Community-5.8.0-red.svg)](https://flatboard.org) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Flatboard](https://img.shields.io/badge/Community-5.8.0-blue.svg)](https://flatboard.org) [![Flatboard](https://img.shields.io/badge/Pro-5.8.4-red.svg)](https://flatboard.org) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=dark) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ===================
 
